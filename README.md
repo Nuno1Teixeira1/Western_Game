@@ -1,6 +1,4 @@
 # Western Game
-Welcome to the Wild West!
-
 **You've been challenged for a gun duel.**
 There's no going back, otherwise your pride and glory as a duelist will be stained.
 Don't worry there's someone watching over the duel, **in case someone cheats** or runs away... you only **DRAW** when the timer hits 0!
