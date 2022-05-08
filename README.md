@@ -1,5 +1,5 @@
 # Introduction
-The second group projoect related with @<Academia de Código_> #68 Bootcamp @ Porto. We were faced with our 2nd challenge... create a multiplayer game! As such we decided to simulate a server, where each player had his own socket that could connect with each other and start!
+The second group projoect related with @<Academia de Código_> #68 Bootcamp @ Porto. We were faced with our 2nd challenge... create a multiplayer game! As such we decided to simulate a server, where each player had his own socket that could connect with each other and start. The deadline was 1 week!
 
 # Western Game
 **You've been challenged for a gun duel.**
