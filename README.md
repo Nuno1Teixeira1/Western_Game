@@ -1,3 +1,6 @@
+# Introduction
+The second group projoect related with @<Academia de Código_> #68 Bootcamp @ Porto. We were faced with our 2nd challenge... create a multiplayer game! As such we decided to simulate a server, where each player had his own socket that could connect to it and start.
+
 # Western Game
 **You've been challenged for a gun duel.**
 There's no going back, otherwise your pride and glory as a duelist will be stained.
