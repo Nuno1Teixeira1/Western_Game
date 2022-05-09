@@ -31,6 +31,7 @@ You have 2 options... either you win or lose. So what's it gonna be, **cowboy**?
  - Threads
  - Client-Server + Sockets
  - Scrum
+ - Git
  - [Prompt View](https://github.com/academia-de-codigo/prompt-view) made by **Jedi Masters** at **Academia de Código**
 
 
