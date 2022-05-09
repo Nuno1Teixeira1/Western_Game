@@ -25,8 +25,14 @@ You have 2 options... either you win or lose. So what's it gonna be, **cowboy**?
  - Once the timer ends... SHOOT! (by pressing Enter).
  - The results will reveal the winner and the reaction time.
 
-## Libraries
+
+## Tech / Tools / Methodologies
+ - Java SE 17
+ - Threads
+ - Client-Server + Sockets
+ - Scrum
  - [Prompt View](https://github.com/academia-de-codigo/prompt-view) made by **Jedi Masters** at **Academia de Código**
+
 
 ## Developers
 This project was made by **Code Cadets** at **Academia de Código**, Team #~~Magnific0x~~ Argicultores
